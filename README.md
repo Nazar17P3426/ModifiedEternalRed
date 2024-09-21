@@ -1,2 +1,2 @@
-# ModifiedEnternalRed.exe-Malware
-Modified To make it compat to winxp
+# ModifiedEternalRed
+C++ GDI trojan by WinMalware
